@@ -1,0 +1,12 @@
+C:\Users\Dhawala\source\repos\UBooks\UBooks.Models\bin\Debug\net6.0\UBooks.Models.deps.json
+C:\Users\Dhawala\source\repos\UBooks\UBooks.Models\bin\Debug\net6.0\UBooks.Models.dll
+C:\Users\Dhawala\source\repos\UBooks\UBooks.Models\bin\Debug\net6.0\UBooks.Models.pdb
+C:\Users\Dhawala\source\repos\UBooks\UBooks.Models\obj\Debug\net6.0\UBooks.Models.csproj.AssemblyReference.cache
+C:\Users\Dhawala\source\repos\UBooks\UBooks.Models\obj\Debug\net6.0\UBooks.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dhawala\source\repos\UBooks\UBooks.Models\obj\Debug\net6.0\UBooks.Models.AssemblyInfoInputs.cache
+C:\Users\Dhawala\source\repos\UBooks\UBooks.Models\obj\Debug\net6.0\UBooks.Models.AssemblyInfo.cs
+C:\Users\Dhawala\source\repos\UBooks\UBooks.Models\obj\Debug\net6.0\UBooks.Models.csproj.CoreCompileInputs.cache
+C:\Users\Dhawala\source\repos\UBooks\UBooks.Models\obj\Debug\net6.0\UBooks.Models.dll
+C:\Users\Dhawala\source\repos\UBooks\UBooks.Models\obj\Debug\net6.0\refint\UBooks.Models.dll
+C:\Users\Dhawala\source\repos\UBooks\UBooks.Models\obj\Debug\net6.0\UBooks.Models.pdb
+C:\Users\Dhawala\source\repos\UBooks\UBooks.Models\obj\Debug\net6.0\ref\UBooks.Models.dll

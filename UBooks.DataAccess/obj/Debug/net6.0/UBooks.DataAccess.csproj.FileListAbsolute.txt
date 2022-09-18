@@ -1,0 +1,17 @@
+C:\Users\Dhawala\source\repos\UBooks\UBooks.DataAccess\bin\Debug\net6.0\UBooks.DataAccess.deps.json
+C:\Users\Dhawala\source\repos\UBooks\UBooks.DataAccess\bin\Debug\net6.0\UBooks.DataAccess.runtimeconfig.json
+C:\Users\Dhawala\source\repos\UBooks\UBooks.DataAccess\bin\Debug\net6.0\UBooks.DataAccess.dll
+C:\Users\Dhawala\source\repos\UBooks\UBooks.DataAccess\bin\Debug\net6.0\UBooks.DataAccess.pdb
+C:\Users\Dhawala\source\repos\UBooks\UBooks.DataAccess\bin\Debug\net6.0\UBooks.Models.dll
+C:\Users\Dhawala\source\repos\UBooks\UBooks.DataAccess\bin\Debug\net6.0\UBooks.Models.pdb
+C:\Users\Dhawala\source\repos\UBooks\UBooks.DataAccess\obj\Debug\net6.0\UBooks.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Dhawala\source\repos\UBooks\UBooks.DataAccess\obj\Debug\net6.0\UBooks.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dhawala\source\repos\UBooks\UBooks.DataAccess\obj\Debug\net6.0\UBooks.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Dhawala\source\repos\UBooks\UBooks.DataAccess\obj\Debug\net6.0\UBooks.DataAccess.AssemblyInfo.cs
+C:\Users\Dhawala\source\repos\UBooks\UBooks.DataAccess\obj\Debug\net6.0\UBooks.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Dhawala\source\repos\UBooks\UBooks.DataAccess\obj\Debug\net6.0\UBooks.DataAccess.csproj.CopyComplete
+C:\Users\Dhawala\source\repos\UBooks\UBooks.DataAccess\obj\Debug\net6.0\UBooks.DataAccess.dll
+C:\Users\Dhawala\source\repos\UBooks\UBooks.DataAccess\obj\Debug\net6.0\refint\UBooks.DataAccess.dll
+C:\Users\Dhawala\source\repos\UBooks\UBooks.DataAccess\obj\Debug\net6.0\UBooks.DataAccess.pdb
+C:\Users\Dhawala\source\repos\UBooks\UBooks.DataAccess\obj\Debug\net6.0\UBooks.DataAccess.genruntimeconfig.cache
+C:\Users\Dhawala\source\repos\UBooks\UBooks.DataAccess\obj\Debug\net6.0\ref\UBooks.DataAccess.dll
